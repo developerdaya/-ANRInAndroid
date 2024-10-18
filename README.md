@@ -1,4 +1,4 @@
-# -ANRInAndroid
+# ANRInAndroid
 In Android, an **ANR (Application Not Responding)** error occurs when the main thread (UI thread) of an application is blocked for too long (usually more than **5 seconds**). ANR events can happen due to various reasons, often related to poor app design or long-running operations on the main thread.
 
 Here are the main types of ANR that can occur in Android:
